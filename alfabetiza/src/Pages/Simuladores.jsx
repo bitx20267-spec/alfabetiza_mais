@@ -18,7 +18,7 @@ function Simuladores() {
                     <a className="simuladores-card" href="/simuladores/simulador_banco2.html">
                         Operação bancária
                     </a>
-                    <a className="simuladores-card" href="../../simuladores/compra_online.html">
+                    <a className="simuladores-card" href="../../dist/simuladores/compra_online.html">
                         Compra na internet
                     </a>
                 </section>
